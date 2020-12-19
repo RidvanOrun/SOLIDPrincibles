@@ -69,6 +69,10 @@
     <Compile Include="Lab4_ISP\BadExample\Concrete\Piranha.cs" />
     <Compile Include="Lab4_ISP\BadExample\Concrete\Salmon.cs" />
     <Compile Include="Lab4_ISP\BadExample\Interface\IFish.cs" />
+    <Compile Include="Lab4_ISP\GoodExample\Concrete\Piranha.cs" />
+    <Compile Include="Lab4_ISP\GoodExample\Concrete\Salmon.cs" />
+    <Compile Include="Lab4_ISP\GoodExample\Interface\IPredatoryFish.cs" />
+    <Compile Include="Lab4_ISP\GoodExample\Interface\ISwimGillFish.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -95,6 +99,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Lab2_OCP\Model\" />
+    <Folder Include="Lab5_DIP\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
