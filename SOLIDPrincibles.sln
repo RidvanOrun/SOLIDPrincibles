@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDPrincibles", "SOLİDPrincibles\SOLIDPrincibles.csproj", "{DE1064FC-EABC-4111-A6F2-60A272B300E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE1064FC-EABC-4111-A6F2-60A272B300E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1064FC-EABC-4111-A6F2-60A272B300E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1064FC-EABC-4111-A6F2-60A272B300E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1064FC-EABC-4111-A6F2-60A272B300E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {232B628C-BD98-4D7E-AC5A-0D0F5C8B73E1}
+	EndGlobalSection
+EndGlobal
