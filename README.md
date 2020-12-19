@@ -1,5 +1,5 @@
 # SOLID Princibles
-Bu projede SOLID prensipleri örnekler ile anlatılmıştır. Prensiplerin ayrıntılı açıklamalarına aşağıda vereceğim gibkook hesabımdan ulaşabilrsiniz.
+Bu projede SOLID prensipleri örnekler ile anlatılmıştır. Prensiplerin ayrıntılı açıklamalarına aşağıda vereceğim gitbook hesabımdan ulaşabilrsiniz.
 
 [**Lab1**](https://github.com/RidvanOrun/SOLIDPrincibles/tree/master/SOL%C4%B0DPrincibles/Lab1_SRP)  S— Single-responsibility     "Her sınıfın veya metodun tek bir sorumluluğu olmalı "
 
@@ -7,9 +7,9 @@ Bu projede SOLID prensipleri örnekler ile anlatılmıştır. Prensiplerin ayrı
 
 [**Lab3**](https://github.com/RidvanOrun/SOLIDPrincibles/tree/master/SOL%C4%B0DPrincibles/Lab3_LSP) L — Liskov substitution principle        "Liskov prensibi "
 
-[**Lab4**](https://github.com/RidvanOrun/SOLIDPrincibles/tree/master/SOL%C4%B0DPrincibles/Lab4_ISP) I — Interface segregation principle    " Ara yüzlerin ayrılması prensibi"
+[**Lab4**](https://github.com/RidvanOrun/SOLIDPrincibles/tree/master/SOL%C4%B0DPrincibles/Lab4_ISP) I — Interface segregation principle    " Ara yüzler optimum şekilde dizayn edilmelidir "
 
-[**Lab5**]D — Dependency Inversion Principle  " Katmanlı mimarilerde üst seviye modüller alt seviyedeki modüllere doğruda bağımlı olmamalıdır "
+[**Lab5**]D — Dependency Inversion Principle  " Katmanlı mimarilerde üst seviye modüller alt seviyedeki modüllere doğrudan bağımlı olmamalıdır "
 
 ![SOLİD LOGO](https://i2.wp.com/miro.medium.com/max/4000/1*hKu-BR5Ad0MIjXJhieayFg.png?resize=2000%2C860&ssl=1)
 
