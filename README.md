@@ -1,7 +1,7 @@
 # SOLID Princibles
 Bu projede SOLID prensipleri örnekler ile anlatılmıştır. Prensiplerin ayrıntılı açıklamalarına aşağıda vereceğim gibkook hesabımdan ulaşabilrsiniz.
 
-[**Lab1**](https://github.com/RidvanOrun/SOLIDPrincibles/tree/master/SOL%C4%B0DPrincibles/Lab1_SRP) S— Single-responsibility     "Her sınıfın veya metodun tek bir sorumluluğu olmalı "
+[**Lab1**](https://github.com/RidvanOrun/SOLIDPrincibles/tree/master/SOL%C4%B0DPrincibles/Lab1_SRP)  S— Single-responsibility     "Her sınıfın veya metodun tek bir sorumluluğu olmalı "
 
 [**Lab2**](https://github.com/RidvanOrun/SOLIDPrincibles/tree/master/SOL%C4%B0DPrincibles/Lab2_OCP) O — Open-closed principle  " Sınıflar değişikliğe kapalı ancak gelişime açık olmalıdır"
 
@@ -26,9 +26,14 @@ Varlıklar(Entities) genişlemeye açık olmalı ancak değişikliğe kapalı ol
 Alt sınıflar miras aldığı üst sınıfın bütün özelliklerini kullanmalı, alt sınıflarda oluşturulan nesneler üst sınıfların nesneleriyle yer değiştirdiklerinde aynı davranışı göstermeli ve herhangi bir kullanılmayan özellik olmamalıdır. Bu ilkeye göre "türetilmiş veya alt sınıflar, temel veya ebeveyn sınıflarının yerine geçebilir." 
 
 ## Interface segregation principle; 
+![INTERFACE LOGO](https://blog.ndepend.com/wp-content/uploads/ISP.png)
 
 Bu prensip SOLİD'deki sınıflar yerine arayüzler interfaceler için gerçerli olan ilk prensiptir ve  SRP-LSP prensiplerine benzemektedir. Bu ilke özet olarak şunu söyler "Hiçbir concrete sınıf kendisi ile ilgisi olmayan bir özelliği içeren arayüzden implemente edilmemelidir ". Burada asıl amacımız interfacelerin şişirilmesinden kaçınmamız olmasıdır.
 
 ## Dependency Inversion Principle; 
 
+![DIP LOGO](https://gblobscdn.gitbook.com/assets%2F-MOg9akg5dx2Jdny6D2f%2F-MOskNAIyBz41QwMKI4F%2F-MOtP6msLqwox4RzH1TF%2FDIP2.png?alt=media&token=0f781f01-25a6-4dce-a7ca-aaec6fbc602d)
+
 Bu ilkede yüksek seviyeli sınıflar düşük seviyeli modüllere bağlı olmamalıdır. Modül ve sınıflar soyutlamalara bağlı olmalıdır. Soyutlamalar detaylara bağlı olamamalıdır. Detaylar soyutlara bağlı olmalıdır. Bu detaydan kasıt sınıflara yüklenen görevlerdir. Bu ilkenin en can alıcı noktası bir sınıfın eylem yürütmek için kullandığı araçlar ile birleştirilmemesi gerektiğidir.
+
+Ayrıntılı açıklamalarıma GitBook hesabımdan ulaşabilirisniz. https://ridvanorun.gitbook.io/solid/ 
