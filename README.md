@@ -34,6 +34,8 @@ Bu prensip SOLİD'deki sınıflar yerine arayüzler interfaceler için gerçerli
 
 ![DIP LOGO](https://gblobscdn.gitbook.com/assets%2F-MOg9akg5dx2Jdny6D2f%2F-MOskNAIyBz41QwMKI4F%2F-MOtP6msLqwox4RzH1TF%2FDIP2.png?alt=media&token=0f781f01-25a6-4dce-a7ca-aaec6fbc602d)
 
-Bu ilkede yüksek seviyeli sınıflar düşük seviyeli modüllere bağlı olmamalıdır. Modül ve sınıflar soyutlamalara bağlı olmalıdır. Soyutlamalar detaylara bağlı olamamalıdır. Detaylar soyutlara bağlı olmalıdır. Bu detaydan kasıt sınıflara yüklenen görevlerdir. Bu ilkenin en can alıcı noktası bir sınıfın eylem yürütmek için kullandığı araçlar ile birleştirilmemesi gerektiğidir.
+Bu ilkede yüksek seviyeli sınıflar düşük seviyeli modüllere bağlı olmamalıdır. Modül ve sınıflar soyutlamalara bağlı olmalıdır. Soyutlamalar detaylara bağlı olamamalıdır. Detaylar soyutlara bağlı olmalıdır. Bu detaydan kasıt sınıflara yüklenen görevlerdir. Bu ilkenin en can alıcı noktası bir sınıfın eylem yürütmek için kullandığı araçlar ile birleştirilmemesi gerektiğidir. 
+
+ * Dependencey Injection Methods açıklamaları da GitBook sayfamda bulunmaktadır. 
 
 Ayrıntılı açıklamalarıma GitBook hesabımdan ulaşabilirisniz. https://ridvanorun.gitbook.io/solid/ 
